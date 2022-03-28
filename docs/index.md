@@ -9,34 +9,13 @@ Studying Data Science
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/addien1">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+## Skills
 
-`2016 - Current`
-__Data Science,__ Brigham Young University - Idaho
-Rexburg, ID
-- Statistics Minor
-- Mathematics Cluster
-- 3.5 GPA
-- Projected Graduation in Winter 2023
-
-
-## Related Experience
-
-### Internships - have this say "Projects" or "Skills"?
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-__Skills__
 - R, including tidyverse packages
 - Python
 - SQL
@@ -44,7 +23,7 @@ __Skills__
 - Other Microsoft Office products
 
 
-## Service and Work History
+## Work History
 
 `Jan 2022 - Current`
 __Teaching Assistant in Statistics__, BYU-Idaho
@@ -58,6 +37,16 @@ __Dietary Cook__, Madison Memorial Hospital
 - Prepared meals for staff and patients, using knowledge of various diets and food restrictions
 - Used correct cleaning, sanitizing and food handling procedures to maintain quality and safety for patients and hospital staff
 
+
+## Education
+
+`2016 - Current`
+__Data Science,__ Brigham Young University - Idaho
+Rexburg, ID
+- Statistics Minor
+- Mathematics Cluster
+- 3.5 GPA
+- Projected Graduation in Winter 2023
 
 
 <!-- ### Footer
